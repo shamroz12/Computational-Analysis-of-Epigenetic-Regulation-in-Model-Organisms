@@ -1,0 +1,17 @@
+name: epigenetics-real
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - r-base
+  - r-deseq2
+  - r-essentials
+  - snakemake
+  - bedtools
+  - macs2
+  - samtools
+  - wget
+  - pip
+  - pip:
+    - pybedtools
