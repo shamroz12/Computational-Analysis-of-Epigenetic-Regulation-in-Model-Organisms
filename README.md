@@ -34,4 +34,4 @@ This repository already includes example outputs in the `results/` folder:
 - `results/figures/volcano.png`: a volcano plot figure.
 
 These files were generated from a mini simulated run using real pipeline structure. 
-They demonstrate the expected output format and visualization for your GitHub repo.
+
