@@ -25,9 +25,6 @@ H3K27ac is a histone modification associated with active enhancers and promoters
 ## Notes & caveats
 - This repo is *real-data-ready*: it provides commands to download actual ENCODE/GEO files but does not include large raw files in the ZIP.
 - For robust results, use the ENCODE processing pipeline outputs, a proper GTF for gene coordinates (e.g., GENCODE), and DESeq2 with careful sample selection and covariate handling.
-- Contact: add your name/contact when pushing to GitHub.
-
-
 
 ## Example Results Included
 This repository already includes example outputs in the `results/` folder:
